@@ -51,6 +51,9 @@ Se o link fornecido for válido, a função retornará um objeto com os seguinte
 ```
 
 ## 👨‍💻 Desenvolvido por
+
 Kwai Downloader foi criado por ScriptSantos.
+
 📌 Canal do YouTube:  [ScriptSantos](https://www.youtube.com/@ScriptSantos?sub_confirmation=1)
+
 💡 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório oficial.
