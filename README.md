@@ -17,7 +17,7 @@
 
 Para começar a usar o **Kwai Downloader**, instale via npm:
 
-```bash
+```js
 npm install kwai-downloader
 ```
 
