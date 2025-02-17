@@ -1,2 +1,2 @@
 # kwai_downloader
-Um simples baixaodor de videos do kwai!
+Um simples baixador de videos do kwai!
