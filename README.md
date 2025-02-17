@@ -23,10 +23,9 @@ npm install kwai-downloader
 
 ## 🛠️ Como usar
 
-```bash
+```js
 const { kwaiDownloader } = require("kwai-downloader");
 
-// Função assíncrona para baixar vídeo e obter metadados
 kwaiDownloader('https://www.kwai.com/@TeleKwaiBrasil/video/5213066670017241078')
   .then(data => {
     console.log("Dados do vídeo:", data);
@@ -40,7 +39,7 @@ kwaiDownloader('https://www.kwai.com/@TeleKwaiBrasil/video/5213066670017241078')
 
 Se o link fornecido for válido, a função retornará um objeto com os seguintes dados:
 
-```bash
+```js
 {
   "authorName": "TeleKwai Brasil",
   "description": "Vídeo top do Telekwai. Acesse as páginas iniciais dos nossos criadores para ver mais vídeos legais! #telekwai @Reino do Lucas(O150001370819313)",
